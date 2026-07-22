@@ -2,6 +2,8 @@
 
 İstanbul merkezli bir hukuk bürosu için kurumsal tanıtım sitesi. Faaliyet alanları, ekip ve danışmanlık talep formu bölümlerini içeren, koyu/altın renk paletiyle premium bir görünüme sahip React uygulaması.
 
+**Canlı:** https://d1y6ddqubs82wc.cloudfront.net
+
 ![Screenshot](docs/screenshot.png)
 
 ## Tech Stack
