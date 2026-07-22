@@ -1,11 +1,20 @@
+# Alkılıç Hukuk Bürosu — Landing Page
 
-  # Luxury Law Firm Landing Page
+İstanbul merkezli bir hukuk bürosu için kurumsal tanıtım sitesi. Faaliyet alanları, ekip ve danışmanlık talep formu bölümlerini içeren, koyu/altın renk paletiyle premium bir görünüme sahip React uygulaması.
 
-  This is a code bundle for Luxury Law Firm Landing Page. The original project is available at https://www.figma.com/design/4L8hDCyHRhi3r2gVEqDtTl/Luxury-Law-Firm-Landing-Page.
+![Screenshot](docs/screenshot.png)
 
-  ## Running the code
+## Tech Stack
 
-  Run `npm i` to install the dependencies.
+- React + Vite + TypeScript
+- Tailwind CSS, shadcn/ui bileşenleri
 
-  Run `npm run dev` to start the development server.
-  
+## Proje Hakkında
+
+Freelance müşteri projesi. Figma tasarımından üretilen kod tabanı bu repoda geliştirilip son haline getirilmiştir.
+
+## Running the code
+
+Run `npm i` to install the dependencies.
+
+Run `npm run dev` to start the development server.
